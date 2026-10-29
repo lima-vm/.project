@@ -25,7 +25,7 @@ repositories:
 
 website: "https://lima-vm.io/"
 
-artwork: "https://landscape.cncf.io/logos/lima.svg"
+artwork: "https://lima-vm.io/images/logo.svg"
 
 adopters:
   path: "https://github.com/lima-vm/lima/blob/master/ADOPTERS.md"
